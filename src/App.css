@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.card {
+  border: 1px solid gray;
+  padding: 20px;
+}
+
+.m20 {
+  margin: 20px;
+}
+
+.d-flex-j-a {
+  display: flex;
+  justify-content: space-around;
+}
+
+.d-flex-g-wr {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.d-flex-col-j-c {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
